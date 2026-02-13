@@ -9,12 +9,12 @@ public class Palindrome {
 		int num = sc.nextInt();
 		
 		int reverseNumber = 0;
-		int Quatiant = num;
-		while( Quatiant != 0) {
+		int Quotient = num;
+		while( Quotient != 0) {
 			
-			int remainder =  Quatiant % 10 ;
+			int remainder =  Quotient % 10 ;
 			reverseNumber = reverseNumber*10 + remainder;
-			Quatiant = Quatiant / 10;
+			Quotient = Quotient / 10;
 		}
 		
 		System.out.println("Entered number:" + num);
