@@ -1,4 +1,4 @@
-package corejava_tnsif;
+package org.tns.acc.c2tc.core_java;
 
 public class AbstractionDEmo {
 	 public static void main(String[] args) {
