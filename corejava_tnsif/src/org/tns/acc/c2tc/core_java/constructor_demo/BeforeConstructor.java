@@ -1,4 +1,4 @@
-package org.tns.acc.c2tc.core_java.constructor;
+package org.tns.acc.c2tc.core_java.constructor_demo;
 
 class Myclass
 {
