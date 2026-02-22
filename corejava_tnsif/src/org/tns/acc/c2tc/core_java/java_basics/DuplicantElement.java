@@ -1,4 +1,4 @@
-package corejava_tnsif;
+package org.tns.acc.c2tc.core_java.java_basics;
 
 import java.lang.reflect.Array;
 import java.util.Scanner;
