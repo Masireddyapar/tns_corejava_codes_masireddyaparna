@@ -1,4 +1,4 @@
-package package org.tns.acc.c2tc.core_java;;
+package org.tns.acc.c2tc.core_java;;
 
 interface SmartDevice
 {
