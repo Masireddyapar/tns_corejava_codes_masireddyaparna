@@ -1,4 +1,4 @@
-package corejava_tnsif;
+package package org.tns.acc.c2tc.core_java;;
 
 interface SmartDevice
 {
