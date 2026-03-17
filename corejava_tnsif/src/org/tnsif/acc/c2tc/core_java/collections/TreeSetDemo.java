@@ -1,6 +1,5 @@
 package org.tnsif.acc.c2tc.core_java.collections;
 
-package org.tnsif.acc.c2tc.collections;
 
 import java.util.TreeSet;
 
